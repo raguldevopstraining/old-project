@@ -1,4 +1,5 @@
 But she was too eager to get back to her home in the native village. Why not? 
 if :
- working(<=20):
-
+ working(<=3330):
+this is the new line we need to bulild the good vibration 
+new line added after landhing in working area 
